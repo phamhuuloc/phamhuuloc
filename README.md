@@ -37,7 +37,6 @@ phamhuuloc/phamhuuloc is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### ***📊 GitHub Profile Stats***
 
 <p align="left">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamhuuloc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
