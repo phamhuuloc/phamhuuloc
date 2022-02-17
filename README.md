@@ -1,6 +1,6 @@
 
 # Hi, I’m Loc Pham!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-<a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=phamhuuloc&color=orange">
 
 👨 My name is Loc Pham and I'm a junior studying information system at UIT. I'm from Vietnam and my goal is to become a FullStack Developer.
 
