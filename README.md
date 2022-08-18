@@ -38,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamhuuloc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phamhuuloc&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
