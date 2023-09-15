@@ -24,7 +24,7 @@
 
 ## ✏️ My Blog
 
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: <a href=""> Loc Pham blog </a>
+ You can find my CV  on here: <a href=""> CV-PHAMHUULOC-BACKEND </a>
 
 
 ## 📈 Github Stats
