@@ -24,7 +24,7 @@
 
 ## ✏️ My CV
 
- You can find my CV  on here: <a href=""> CV-PHAMHUULOC-BACKEND </a>
+ You can find my CV  on here: <a href="https://www.topcv.vn/xem-cv/VVNTDwIFAgYJUgBQDAtTBwAFVQNSBwMCUARXXwb82f"> CV-PHAMHUULOC-BACKEND </a>
 
 
 ## 📈 Github Stats
